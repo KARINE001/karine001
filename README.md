@@ -1,6 +1,6 @@
-## Hi there 👋
 
-# 👋 Welcome to My GitHub! I'm Karine
+
+# 👋 Welcome to My GitHub! 
 
 🚀 **DevOps | NodeOps | Blockchain Infrastructure | Security & Automation**  
 🔧 **Building Secure, Scalable, and Efficient Infrastructure**  
