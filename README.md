@@ -1,6 +1,6 @@
 
 
-# 👋 Welcome to My GitHub profile intro ! 
+# 👋 Profile intro ! 
 
 
 🚀 **DevOps | NodeOps | Blockchain Infrastructure | Security & Automation**  
