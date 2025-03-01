@@ -1,31 +1,20 @@
 
+## About Me
+I work with Web3 infrastructure and DevOps, focusing on blockchain nodes, server security, and automation. I document my experiences and insights on [tokiostack.com](https://tokiostack.com).
 
-# 👋 Profile intro ! 
+## Skills & Technologies
+- **Blockchain Nodes:** Deployment, maintenance, and monitoring
+- **Docker & Linux:** Containerization, security hardening, and system administration
+- **Monitoring & Observability:** Grafana, Prometheus, Watchtower
+- **Automation & Scripting:** Linux commands and process optimization
 
+## Connect with Me
+- **Twitter:** [@tokio_hi](https://twitter.com/tokio_hi)
+- **Website:** [tokiostack.com](https://tokiostack.com)
 
-🚀 **DevOps | NodeOps | Blockchain Infrastructure | Security & Automation**  
-📝 **Writing Tutorials & Guides on [tokiostack.com](https://tokiostack.com)**  
-
----
-
-### **🛠️ What I Do**
-✔ **Deploy & manage blockchain nodes **  
-✔ **Automate infrastructure with DevOps best practices**  
-✔ **Optimize security & monitoring**  
-✔ **Cloud & Web3 Infra Management**  
-
----
-
-### **🔹 Tech Stack**
-🔹 **Cloud & Infrastructure:** Contabo, Google Cloud  
-🔹 **Automation & CI/CD:** Terraform, Ansible, GitHub Actions  
-🔹 **Security:** Firewall, Fail2Ban, UFW, SSH Hardening  
-🔹 **Monitoring & Logging:** Prometheus, Grafana, Loki  
-🔹 **Blockchain & Web3:** Running Nodes  
-
----
+Feel free to check out my repositories and connect.
 
 
----
+--
 
-💡 *Check out my repositories and feel free to connect!* 🚀
+
