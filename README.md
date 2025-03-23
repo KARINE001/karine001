@@ -9,7 +9,7 @@ I work with Web3 infrastructure and DevOps, focusing on blockchain nodes, server
 - **Automation & Scripting:** Linux commands and process optimization
 
 ## Connect with Me
-- **Twitter:** [@tokiostack](https://twitter.com/tokio_hi)
+- **Twitter:** [@tokio_hi](https://twitter.com/tokio_hi)
 - **Website:** [tokiostack.com](https://tokiostack.com)
 
 Feel free to check out my repositories and connect.
