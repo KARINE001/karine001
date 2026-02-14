@@ -1,20 +1,27 @@
+# Tokio | Labs 🔬
 
-## About Me
-I work with Web3 infrastructure and DevOps, focusing on blockchain nodes, server security, and automation. I document my experiences and insights on [tokiostack.com](https://tokiostack.com).
+**Building infrastructure in the shadows** | *Construire dans l'ombre*
 
-## Skills & Technologies
-- **Blockchain Nodes:** Deployment, maintenance, and monitoring
-- **Docker & Linux:** Containerization, security hardening, and system administration
-- **Monitoring & Observability:** Grafana, Prometheus, Watchtower
-- **Automation & Scripting:** Linux commands and process optimization
+---
 
-## Connect with Me
-- **Twitter:** [@tokiostack](https://twitter.com/tokiostack)
-- **Website:** [tokiostack.com](https://tokiostack.com)
+## About / À propos
 
-Feel free to check out my repositories and connect.
+Infrastructure operator & developer focused on privacy, 
+automation and distributed systems.
 
+Opérateur d'infrastructure & développeur, centré sur la 
+privacy, l'automatisation et les systèmes distribués.
 
---
+## Stack
 
+`Python` `Rust` `Docker` `Linux` `Solana` `AI/LLM`
 
+## Public Work / Travaux publics
+
+- ⚙️ **tokio-ops** — Node infrastructure & monitoring
+
+## Connect
+
+- 🐦 [@tokiostack](https://twitter.com/tokiostack)  
+- 🌐 [tokiolabs.cc](https://tokiolabs.cc)
+EOF
