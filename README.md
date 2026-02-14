@@ -24,4 +24,4 @@ privacy, l'automatisation et les systèmes distribués.
 
 - 🐦 [@tokiostack](https://twitter.com/tokiostack)  
 - 🌐 [tokiolabs.cc](https://tokiolabs.cc)
-EOF
+
