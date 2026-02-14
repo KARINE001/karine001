@@ -1,27 +1,31 @@
-# Tokio | Labs 🔬
+# TokioStack 🔬
 
-**Building infrastructure in the shadows** | *Construire dans l'ombre*
+Hey! I'm Tokio — I run blockchain nodes, build automation 
+systems, and explore the intersection of privacy & Web3.
+
+I document everything so you don't have to figure it out alone.
+*Je documente tout pour que vous n'ayez pas à tout découvrir seul.*
 
 ---
 
-## About / À propos
+## What I work on
 
-Infrastructure operator & developer focused on privacy, 
-automation and distributed systems.
+⚙️ **Node Operations** — Setting up & running blockchain nodes
+(step-by-step guides, beginner-friendly!)
 
-Opérateur d'infrastructure & développeur, centré sur la 
-privacy, l'automatisation et les systèmes distribués.
+🤖 **Automation & AI** — Scripts, bots & LLM pipelines
+
+🔒 **Privacy & Security** — Linux hardening, VPN, opsec
+
+📈 **Trading Systems** — Algorithmic bots, market analysis
+
+---
 
 ## Stack
-
 `Python` `Rust` `Docker` `Linux` `Solana` `AI/LLM`
 
-## Public Work / Travaux publics
-
-- ⚙️ **Node infrastructure & monitoring**
+---
 
 ## Connect
-
-- 🐦 [@tokiostack](https://twitter.com/tokiostack)  
-- 🌐 [tokiolabs.cc](https://tokiolabs.cc)
-
+- 🐦 [@tokiostack](https://twitter.com/tokiostack)
+- 🌐 [tokiostack.com](https://tokiostack.com)
