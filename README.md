@@ -18,7 +18,7 @@ privacy, l'automatisation et les systèmes distribués.
 
 ## Public Work / Travaux publics
 
-- ⚙️ **tokio-ops** — Node infrastructure & monitoring
+- ⚙️ **Node infrastructure & monitoring**
 
 ## Connect
 
