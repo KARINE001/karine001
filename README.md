@@ -1,4 +1,5 @@
-# TokioStack 🔬
+# TokioStack <img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/b0d393f1-852e-4332-888a-14e76ace9b7d" />
+
 
 Hey! I'm Tokio — I run blockchain nodes, build automation 
 systems, and explore the intersection of privacy & Web3.
