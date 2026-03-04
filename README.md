@@ -17,5 +17,5 @@ easier to understand — for traders at any level.
 ## Stack
 Python · Docker · Linux · Solana · Claude API
 
-- 🐦 Follow me on Twitter [@tokiostack](https://twitter.com/tokiohub)  
+- 🐦 Follow me on Twitter [@tokiohub](https://twitter.com/tokiohub)  
 - 🌐 Visit my site : [tokiostack.com](https://tokiostack.com)  
