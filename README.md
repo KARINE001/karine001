@@ -1,4 +1,4 @@
-# TokioHub <img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/b0d393f1-852e-4332-888a-14e76ace9b7d" />
+<img width="90" height="90" alt="image" src="https://github.com/user-attachments/assets/b0d393f1-852e-4332-888a-14e76ace9b7d" />
 
 # Hey, I'm Tokio 👋
 
